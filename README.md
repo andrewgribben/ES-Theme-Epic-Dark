@@ -68,27 +68,27 @@
 
 ### System Menus
 
-![arcade](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/arcade.jpg) \
-![atarijaguar](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/atarijaguar.jpg) \
-![dreamcast](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/dreamcast.jpg) \
-![gb](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/gb.jpg) \
-![gbc](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/gbc.jpg) \ 
-![n64](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/n64.jpg) \
-![nes](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/nes.jpg) \
-![openbor](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/openbor.jpg) \
-![psx](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/psx.jpg) \
-![snes](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/snes.jpg)
+![arcade](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/arcade.jpg) \
+![atarijaguar](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/atarijaguar.jpg) \
+![dreamcast](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/dreamcast.jpg) \
+![gb](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/gb.jpg) \
+![gbc](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/gbc.jpg) \ 
+![n64](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/n64.jpg) \
+![nes](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/nes.jpg) \
+![openbor](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/openbor.jpg) \
+![psx](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/psx.jpg) \
+![snes](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/snes.jpg)
 
-![allgames](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/allgames.jpg) \
-![favorites](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/favorites.jpg) \
-![lastplayed](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/lastplayed.jpg) \
-![options](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/options.jpg) 
+![allgames](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/allgames.jpg) \
+![favorites](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/favorites.jpg) \
+![lastplayed](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/lastplayed.jpg) \
+![options](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/options.jpg) 
 
 ### Game List Menus
 
-![n64-gamelist](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/n64-gamelist.jpg) \
-![nes-gamelist](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/nes-gamelist.jpg) \
-![snes-gamelist](https://github.com/torresflo/ES-Theme-Epic-Dark/tree/master/_art/samples/snes-gamelist.jpg) 
+![n64-gamelist](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/n64-gamelist.jpg) \
+![nes-gamelist](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/nes-gamelist.jpg) \
+![snes-gamelist](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/snes-gamelist.jpg) 
 
 ---
 
