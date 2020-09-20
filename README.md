@@ -6,7 +6,7 @@
   <h1 align="center">Epic Dark - EmulationStation Theme</h3>
 
   <p align="center">
-    This is a modern darkish Emulation Station theme with virbrant art.
+    This is a modern darkish Emulation Station theme with vibrant art.
     <br />
     The theme is based on the <a href="https://github.com/c64-dev/es-theme-epicnoir">original theme by Chicuelo and c64-dev</a>, <a href="https://github.com/hoover900/Not-so-Epic">a fork theme by hoover900</a> and it also uses artwork from the <a href="https://github.com/HerbFargus/es-theme-tronkyfran">theme done by HerbFargus</a>.
   </p>
@@ -96,7 +96,7 @@
 
 ## Supported Systems
 
-**Consoles:** \
+**Systems:** \
 3DO \
 Amiga \
 Amstrad CPC \
