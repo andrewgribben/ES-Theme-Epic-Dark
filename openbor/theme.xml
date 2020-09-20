@@ -1,0 +1,33 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>OpenBOR</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Open</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.142</pos>
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Beats of Rage</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.16</pos>
+    <size>0 0</size>
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>Cross Platform Beat'em Up Engine</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Open Beats of Rage or OpenBOR is the open source continuation of Beats of Rage - a 2D sidescrolling beat'em up game engine</text>
+  </text>
+ </view>
+</theme>
