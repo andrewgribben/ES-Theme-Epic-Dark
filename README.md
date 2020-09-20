@@ -14,7 +14,6 @@
 
 ## Table of Contents
 
-* [Installation and Updating](#installation-and-updating)
 * [Features](#features)
 * [Getting started](#getting-started)
   * [Installation](#installation)
@@ -25,6 +24,7 @@
 * [Supported Systems](#supported-systems)
 * [Notes](#notes)
 * [License](#license)
+* [Thanks and Credits](#thanks-and-credits)
 
 ---
 
@@ -89,6 +89,8 @@
 ![n64-gamelist](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/n64-gamelist.jpg) \
 ![nes-gamelist](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/nes-gamelist.jpg) \
 ![snes-gamelist](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/snes-gamelist.jpg) 
+
+[Back to top](#table-of-contents)
 
 ---
 
@@ -161,6 +163,8 @@ All Games \
 Favorites \
 Last Played 
 
+[Back to top](#table-of-contents)
+
 ---
 
 ## Notes
@@ -204,4 +208,4 @@ By downloading and installing this theme it will be assumed that you own and pos
 All original artwork belongs to the many artists who devoted their talents and time into making them.
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
-[Back to top](https://github.com/torresflo/ES-Theme-Epic-Dark)
+[Back to top](#table-of-contents)
