@@ -3,7 +3,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/torresflo/ES-Theme-Epic-Dark.svg)
 
 <p align="center">
-  <h1 align="center">Epic Dark - Emulation Station Theme</h3>
+  <h1 align="center">Epic Dark - EmulationStation Theme</h3>
 
   <p align="center">
     This is a modern darkish Emulation Station theme with virbrant art.
