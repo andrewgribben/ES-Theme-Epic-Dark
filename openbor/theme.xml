@@ -24,10 +24,10 @@
     <size>0 0</size>
   </text> 
   <text name="shortdescription" extra="true">
-   <text>Cross Platform Beat'em Up Engine</text>
+   <text>Moteur de jeu Beat'em Up</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Open Beats of Rage or OpenBOR is the open source continuation of Beats of Rage - a 2D sidescrolling beat'em up game engine</text>
+   <text>Open Beats of Rage ou OpenBOR est la continuation open source de Beats of Rage - un moteur de jeu beat'em up 2D à défilement horizontal.</text>
   </text>
  </view>
 </theme>

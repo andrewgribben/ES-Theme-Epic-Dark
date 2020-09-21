@@ -17,10 +17,10 @@
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1991  ·  16-bit Console</text>
+   <text>1991  ·  Console 16 bits</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>CD-ROM add-on to the Genesis, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB</text>
+   <text>CD-ROM complémentaire à la Genesis permettant de lancer de nombreux jeux FMV, y compris le tristement célèbre Night Trap, qui a conduit à la création de l'ESRB.</text>
   </text>
  </view>
 </theme>

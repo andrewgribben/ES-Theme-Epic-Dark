@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Software</text>
+   <text>Logiciels</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Multi-platform ports of software and game engines from PC to DOS </text>
+   <text>Ports multi-plateformes de logiciels et de moteurs de jeu du PC à MS-DOS.</text>
   </text>
  </view>
 </theme>

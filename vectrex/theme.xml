@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>   
   <text name="shortdescription" extra="true">
-   <text>1982  ·  8-bit Console</text>
+   <text>1982  ·  Console 8 bits</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Vector display based home video game console that was developed by Western Technologies Smith Engineering</text>
+   <text>Console de jeu vidéo de salon basée sur l'affichage vectoriel qui a été développée par Western Technologies Smith Engineering.</text>
   </text>
  </view>
 </theme>

@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text> 
   <text name="shortdescription" extra="true">
-   <text>System Configuration</text>
+   <text>Configuration</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+   <text>Configurez le matériel du système, les connexions Bluetooth et Wi-Fi. Installer des mises à jour, des plug-ins et des thèmes visuels.</text>
   </text>
  </view>
 </theme>

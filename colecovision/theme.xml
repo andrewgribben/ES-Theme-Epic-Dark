@@ -24,10 +24,10 @@
     <size>0 0</size>
 </text>
   <text name="shortdescription" extra="true">
-   <text>1982  ·  8-bit Console</text>
+   <text>1982  ·  Console 8 bits</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The ColecoVision offered a closer experience to more powerful arcade game systems compared to competitors such as the Atari 2600</text>
+   <text>La ColecoVision offrait une expérience plus proche des jeux d'arcade que ses concurrents tels que l'Atari 2600.</text>
   </text>
  </view>
 </theme>

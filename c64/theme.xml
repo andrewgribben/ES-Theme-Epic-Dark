@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1982  ·  8-bit Computer</text>
+   <text>1982  ·  Ordinateur 8 Bits</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The C64 is listed in the Guinness World Records as the highest-selling single computer model of all time.</text>
+   <text>Le C64 est répertorié dans le Guinness World Records comme le modèle d'ordinateur unique le plus vendu de tous les temps.</text>
   </text>
  </view>
 </theme>

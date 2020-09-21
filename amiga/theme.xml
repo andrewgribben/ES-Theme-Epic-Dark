@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1985  ·  16-bit Computer</text>
+   <text>1985  ·  Ordinateur 16 bits</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The original model was part of a wave of 16 and 32 bit computers that featured 256KB or more of RAM, mouse-based GUIs, and improved graphics & audio</text>
+   <text>Le modèle original faisait partie de la vague des ordinateurs 16 et 32 bits qui comportaient 256 Ko ou plus de RAM, des interfaces basées sur la souris, de l’audio et des graphismes améliorés.</text>
   </text>
  </view>
 </theme>

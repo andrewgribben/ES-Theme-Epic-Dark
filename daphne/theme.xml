@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Laserdisc Console</text>
+   <text>Console Laserdisc</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs</text>
+   <text>Appareil convergent et console de jeu vidéo domestique capables de lire des Laserdiscs, des Compact Discs, des jeux sur console et des disques de karaoké LD-G.</text>
   </text>
  </view>
 </theme>

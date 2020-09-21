@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>  
   <text name="shortdescription" extra="true">
-   <text>All Consoles / Handhelds</text>
+   <text>Toutes Consoles & Portables</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play recently played games across the entire library</text>
+   <text>Accédez et jouez rapidement à vos jeux récents issus de toute la bibliothèque.</text>
   </text>
  </view>
 </theme>

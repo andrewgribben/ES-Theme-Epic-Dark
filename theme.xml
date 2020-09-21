@@ -222,25 +222,25 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>       
 
     <text name="btn_a" extra="true">
-        <text>Enter</text>
+        <text>Entrer</text>
         <pos>0.042 0.933</pos>
         <size>0.06 0.07</size>
     </text>   
         
     <text name="btn_b" extra="true">
-        <text>Return</text>
+        <text>Retour</text>
         <pos>0.155 0.933</pos>
         <size>0.06 0.07</size>
     </text>   
         
     <text name="btn_x" extra="true">
-        <text>Favorite</text>
+        <text>Favoris</text>
         <pos>0.259 0.933</pos>
         <size>0.06 0.07</size>
     </text>   
 
     <text name="players_lbl_2" extra="true">
-        <text>players</text>
+        <text>joueurs</text>
         <pos>0.689 0.932</pos>
         <size>0.06 0.07</size>
     </text>       

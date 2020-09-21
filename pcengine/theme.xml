@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1987  ·  16-bit Console</text>
+   <text>1987  ·  Console 16 bits</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Originally intended to compete with the NES, it ended up competing with the Sega Genesis, and later on the Super Nintendo</text>
+   <text>Initialement destiné à concurrencer la NES, il a fini par concurrencer la Sega Genesis, et plus tard la Super Nintendo.</text>
   </text>
  </view>
 </theme>

@@ -24,10 +24,10 @@
     <size>0 0</size>
 </text> 
   <text name="shortdescription" extra="true">
-   <text>2006  ·  32-bit Console</text>
+   <text>2006  ·  Console 32 bits</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Wii introduced the Wii Remote controller, which can be used as a handheld pointing device and detects movement in three dimensions.</text>
+   <text>La Wii a introduit la Wiimote, qui peut être utilisée comme dispositif de pointage et détecte les mouvements en trois dimensions.</text>
   </text>
  </view>
 </theme>
