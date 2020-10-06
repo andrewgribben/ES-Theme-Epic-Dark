@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Solarus</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Solarus</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.130</pos>
+    <size>0 0</size>
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>Cross Platform ARPG Engine</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Solarus is specifically designed with cult 2D Action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana on the Super Nintendo, or Soleil on the Sega Megadrive</text>
+  </text>
+ </view>
+</theme>

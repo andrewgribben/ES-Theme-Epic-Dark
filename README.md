@@ -77,7 +77,8 @@
 ![nes](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/nes.jpg) \
 ![openbor](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/openbor.jpg) \
 ![psx](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/psx.jpg) \
-![snes](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/snes.jpg)
+![snes](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/snes.jpg) \
+![solarus](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/solarus.jpg)
 
 ![allgames](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/allgames.jpg) \
 ![favorites](https://github.com/torresflo/ES-Theme-Epic-Dark/blob/master/_art/samples/favorites.jpg) \
@@ -149,6 +150,7 @@ Sega CD \
 Super Famicom \
 SG-1000 \
 SNES \
+Solarus \
 TurboGrafx-16 \
 TurboGrafx CD \
 Vectrex \
